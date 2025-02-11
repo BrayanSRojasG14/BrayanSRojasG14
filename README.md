@@ -1,5 +1,7 @@
 ## Hi there 👋
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BrayanSRojasG14&theme=merko&show_icons=true&hide_border=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=BrayanSRojasG14&theme=merko&show_icons=true&hide_border=true&layout=compact)
+![GitHub Stats](https://streak-stats.demolab.com?user=BrayanSRojasG14&theme=merko&hide_border=true)
 <!--
 **BrayanSRojasG14/BrayanSRojasG14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
